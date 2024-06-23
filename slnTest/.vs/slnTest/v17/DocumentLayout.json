@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fat\\source\\repos\\slnTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{235C2AD5-1BD4-4252-8232-E72463389ABB}|prjTest\\prjTest.csproj|c:\\users\\fat\\source\\repos\\slntest\\prjtest\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235C2AD5-1BD4-4252-8232-E72463389ABB}|prjTest\\prjTest.csproj|solutionrelative:prjtest\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C2AD5-1BD4-4252-8232-E72463389ABB}|prjTest\\prjTest.csproj|c:\\users\\fat\\source\\repos\\slntest\\prjtest\\dtos\\newsdtoput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235C2AD5-1BD4-4252-8232-E72463389ABB}|prjTest\\prjTest.csproj|solutionrelative:prjtest\\dtos\\newsdtoput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C2AD5-1BD4-4252-8232-E72463389ABB}|prjTest\\prjTest.csproj|c:\\users\\fat\\source\\repos\\slntest\\prjtest\\dtos\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235C2AD5-1BD4-4252-8232-E72463389ABB}|prjTest\\prjTest.csproj|solutionrelative:prjtest\\dtos\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C2AD5-1BD4-4252-8232-E72463389ABB}|prjTest\\prjTest.csproj|c:\\users\\fat\\source\\repos\\slntest\\prjtest\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235C2AD5-1BD4-4252-8232-E72463389ABB}|prjTest\\prjTest.csproj|solutionrelative:prjtest\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C2AD5-1BD4-4252-8232-E72463389ABB}|prjTest\\prjTest.csproj|c:\\users\\fat\\source\\repos\\slntest\\prjtest\\models\\newsfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235C2AD5-1BD4-4252-8232-E72463389ABB}|prjTest\\prjTest.csproj|solutionrelative:prjtest\\models\\newsfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C2AD5-1BD4-4252-8232-E72463389ABB}|prjTest\\prjTest.csproj|c:\\users\\fat\\source\\repos\\slntest\\prjtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235C2AD5-1BD4-4252-8232-E72463389ABB}|prjTest\\prjTest.csproj|solutionrelative:prjtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C2AD5-1BD4-4252-8232-E72463389ABB}|prjTest\\prjTest.csproj|c:\\users\\fat\\source\\repos\\slntest\\prjtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{235C2AD5-1BD4-4252-8232-E72463389ABB}|prjTest\\prjTest.csproj|solutionrelative:prjtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 299,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsDtoPut.cs",
+              "DocumentMoniker": "C:\\Users\\fat\\source\\repos\\slnTest\\prjTest\\Dtos\\NewsDtoPut.cs",
+              "RelativeDocumentMoniker": "prjTest\\Dtos\\NewsDtoPut.cs",
+              "ToolTip": "C:\\Users\\fat\\source\\repos\\slnTest\\prjTest\\Dtos\\NewsDtoPut.cs",
+              "RelativeToolTip": "prjTest\\Dtos\\NewsDtoPut.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:26:21.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\fat\\source\\repos\\slnTest\\prjTest\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "prjTest\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\fat\\source\\repos\\slnTest\\prjTest\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "prjTest\\Controllers\\NewsController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAUwE4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:31:48.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsFiles.cs",
+              "DocumentMoniker": "C:\\Users\\fat\\source\\repos\\slnTest\\prjTest\\Models\\NewsFiles.cs",
+              "RelativeDocumentMoniker": "prjTest\\Models\\NewsFiles.cs",
+              "ToolTip": "C:\\Users\\fat\\source\\repos\\slnTest\\prjTest\\Models\\NewsFiles.cs",
+              "RelativeToolTip": "prjTest\\Models\\NewsFiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:52:46.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsDto.cs",
+              "DocumentMoniker": "C:\\Users\\fat\\source\\repos\\slnTest\\prjTest\\Dtos\\NewsDto.cs",
+              "RelativeDocumentMoniker": "prjTest\\Dtos\\NewsDto.cs",
+              "ToolTip": "C:\\Users\\fat\\source\\repos\\slnTest\\prjTest\\Dtos\\NewsDto.cs",
+              "RelativeToolTip": "prjTest\\Dtos\\NewsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:58:17.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\fat\\source\\repos\\slnTest\\prjTest\\Models\\News.cs",
+              "RelativeDocumentMoniker": "prjTest\\Models\\News.cs",
+              "ToolTip": "C:\\Users\\fat\\source\\repos\\slnTest\\prjTest\\Models\\News.cs",
+              "RelativeToolTip": "prjTest\\Models\\News.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA0wAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:45:07.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fat\\source\\repos\\slnTest\\prjTest\\Program.cs",
+              "RelativeDocumentMoniker": "prjTest\\Program.cs",
+              "ToolTip": "C:\\Users\\fat\\source\\repos\\slnTest\\prjTest\\Program.cs",
+              "RelativeToolTip": "prjTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:24:20.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fat\\source\\repos\\slnTest\\prjTest\\appsettings.json",
+              "RelativeDocumentMoniker": "prjTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\fat\\source\\repos\\slnTest\\prjTest\\appsettings.json",
+              "RelativeToolTip": "prjTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-29T18:23:21.585Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 101,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
